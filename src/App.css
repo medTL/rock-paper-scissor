@@ -1,0 +1,12 @@
+.App {
+ width: 60%;
+ margin: auto;
+height: 80%;
+}
+
+.App-container {
+  display: grid;
+  place-items: center;
+  height: 100%;
+  height: 100%;
+}
